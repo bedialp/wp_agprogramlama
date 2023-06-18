@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/* import 'package:flutter/material.dart';
 
 class TalkPage extends StatelessWidget {
   const TalkPage({Key? key}) : super(key: key);
@@ -105,3 +105,4 @@ class TalkPage extends StatelessWidget {
     );
   }
 }
+ */

@@ -51,12 +51,13 @@ class _RegisterPageState extends State<RegisterPage> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                const Icon(
-                  Icons.whatsapp,
-                  color: Colors.green,
-                  size: 150,
+                Image.asset(
+                  'assets/online-shopping.png',
+                  height: 350,
+                  width: 350,
                 ),
-                const SizedBox(height: 50),
+                const SizedBox(height: 30),
+
                 //hello again!
                 Text(
                   'Hello There!',
